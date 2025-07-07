@@ -2,7 +2,7 @@
 
 ![Splitr Banner](https://raw.githubusercontent.com/AyushhhJaiswal/Splitr-Split-expenses/refs/heads/main/public/Landingpge.png)
 
-[![Live Site](https://img.shields.io/badge/🌐%20LIVE%20SITE-Connectify-blueviolet?style=for-the-badge)](https://splitr-split-expenses.vercel.app)
+[![Live Site](https://img.shields.io/badge/🌐%20LIVE%20SITE-Splitr-blueviolet?style=for-the-badge)](https://splitr-split-expenses.vercel.app)
 [![Next.js](https://img.shields.io/badge/🚀%20Built%20With-Next.js-000?style=for-the-badge&logo=nextdotjs)](https://nextjs.org)
 [![Convex](https://img.shields.io/badge/Realtime%20Backend-Convex-blue?style=for-the-badge)](https://convex.dev)
 [![Clerk Auth](https://img.shields.io/badge/Auth-Clerk-green?style=for-the-badge)](https://clerk.dev)
